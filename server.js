@@ -7,3 +7,14 @@ const database = require("./db/db")
 var app = express();
 // process.env.PORT can be used either by our local .env variables if setup with DOTENV module (import in package.json)  
 var PORT = process.env.PORT || 3000;
+
+
+
+
+
+//===========================================================================
+// Listening is the last thing Express should do. This sets up the server.
+//===========================================================================
+app.listen(PORT, function () {
+    console.log("App listening on http://localhost:" + PORT);
+});
