@@ -9,7 +9,7 @@ A simple HTML, CSS, and JS website that uses local storage to save entries in yo
 
 ### [LIVE](https://protected-plains-66484.herokuapp.com/)
 
-
+![screenshot for notetaker](https://raw.githubusercontent.com/Johnhughes814/CH-11-Notetaker/main/Notetaker.png)
 
 ## Table of Contents
   - [Licenses](#licenses)
