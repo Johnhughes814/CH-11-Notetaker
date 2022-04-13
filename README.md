@@ -7,7 +7,7 @@
 ## Description
 A simple HTML, CSS, and JS website that uses local storage to save entries in your cache. User has the option to delete notes as well!
 
-### [LIVE](https://protected-plains-66484.herokuapp.com/)
+### [DEMO](https://protected-plains-66484.herokuapp.com/)
 
 ![screenshot for notetaker](https://raw.githubusercontent.com/Johnhughes814/CH-11-Notetaker/main/Notetaker.png)
 
